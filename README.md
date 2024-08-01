@@ -27,15 +27,25 @@ This repository contains the data files and instructions for the Montgomery Flee
 This report presents the results of a comprehensive data cleaning and analysis project on the Montgomery Fleet Equipment Inventory. The objective was to ensure data accuracy and derive meaningful insights from the cleaned dataset.
 
 **Data Cleaning Process**          
-1.Remove Empty Rows: All completely empty rows were removed.              
-2.Remove Duplicate Records: Duplicate records were identified and removed.    
-3.Fix Spelling Errors: Spelling errors in the dataset were corrected.         
+1.Remove Empty Rows: All completely empty rows were removed.             
+
+2.Remove Duplicate Records: Duplicate records were identified and removed.   
+
+3.Fix Spelling Errors: Spelling errors in the dataset were corrected.        
+
 4.Combine Department Names: Department names that were split across columns were combined into a single column.    
 
+
 **Data Analysis**                     
+
 5.Pivot Tables: Created pivot tables to summarize equipment count by department and equipment class.                 
+
 6.Summary Statistics: Calculated total, average, minimum, maximum, and count of equipment.                            
+
 Key Insights                         
-7.Equipment Distribution: Identified the departments with the highest and lowest equipment counts.               
-8.Equipment Class Analysis: Analyzed the distribution of different types of equipment within each department.       
+
+7.Equipment Distribution: Identified the departments with the highest and lowest equipment counts.              
+
+8.Equipment Class Analysis: Analyzed the distribution of different types of equipment within each department.      
+
 Visualizations
